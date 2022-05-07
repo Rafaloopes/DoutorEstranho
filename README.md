@@ -1,2 +1,2 @@
-# DoutorEstranho
-Projeto de landing page do filme doutor estranho.
+# Doctor Strange
+Projeto criado pelo youtuber Fernando Leonid(https://www.youtube.com/channel/UCUx9gTvh8siElre9J7rF18w)[Fernando Leonid]
